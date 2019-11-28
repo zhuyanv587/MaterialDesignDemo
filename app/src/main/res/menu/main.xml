@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item_linear"
+        android:title="LinearLayout"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never" />
+    <item android:id="@+id/item_grid"
+        android:title="GridLayout"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never" />
+    <item android:id="@+id/item_stagger"
+        android:title="StaggeredGridLayout"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never" />
+</menu>
